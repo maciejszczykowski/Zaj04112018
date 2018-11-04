@@ -1,6 +1,19 @@
+Odpalanie GITHub
 ....po maciej.szczykowski w js...
 source control - taki kwadracik
-potem
+potem V
 
 #container + tab....
-#left_containe..... divysierobia
+#left_containe..... divy sie robia
+
+media queries:
+dostosowojemy wyglad do urzadzen w glownym pliku trials. np zmienjszamy szerokosc przegladarki to wywola inny plik css .... z 11 linijki 
+np. jako tablet , potem jako telefon... css musimy dostosowac, szukamy po odpaleniu w chromie jak sie zachowuje jak zmniejszamy okno i wtedy w css zmieniamy, np
+paddingi zmniejszamy itd, skurczamy to w css. tablet a potem jeszcze zmniejszamy to zmienimy w css.phone
+skopiowalismy main.css jako tablet.css i tam zmienialismy. na phone nie zdayzlismy
+
+Formularze: 
+tam zmienialismy dane w polach 
+
+Typografia:
+fonty mozemy sciagnac do siebie i udostapniac razem ze strona gdyby ktos nie mial
